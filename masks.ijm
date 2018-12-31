@@ -1,6 +1,7 @@
 // This macro batch measures a folder of images.
 // Use the Analyze>Set Measurements command
 // to specify the measurement parameters.
+// outputs the masked extents of each bulbil
 
     dir = getDirectory("Choose a Directory ");
     list = getFileList(dir);
