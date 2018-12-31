@@ -1,6 +1,11 @@
 // This macro batch measures a folder of images.
 // Use the Analyze>Set Measurements command
 // to specify the measurement parameters.
+// outputs to results table the specified measurements including 
+// the area of the bulbil (column heading = 'area', the percent red extent of tetrazolium treated bulbils (column heading = 'perc_area'),
+// and the delta red values (column heading = 'mean')
+
+// place this file in the imageJ plugins->Analyze folder
 
     dir = getDirectory("Choose a Directory ");
     list = getFileList(dir);
