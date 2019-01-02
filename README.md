@@ -1,2 +1,2 @@
 # SSW
-scripts used for image anaylses in treatments of starry stonewort (Nitellopsis obtusa) bulbils.
+scripts used for image anaylsis of starry stonewort (Nitellopsis obtusa) bulbils.
